@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julius</h1>
-<h3 align="center">Tester and wanna be a full stack developer .</h3>
+<h3 align="center">Tester and learning to become a full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajyorke&label=Profile%20views&color=0e75b6&style=flat" alt="ajyorke" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/aj_yorke" target="blank"><img src="https://img.shields.io/twitter/follow/aj_yorke?logo=twitter&style=for-the-badge" alt="aj_yorke" /></a> </p>
 
-- 🔭 I’m currently working on **something cool!**
+- 🔭 I’m currently working on **E-Commerce Website in PHP & MySQL**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **PHP & MySQL and VB.Net**
 
-- 👯 I’m looking to collaborate on **C++, HTML**
+- 👯 I’m looking to collaborate on **C++, HTML 5, CSS, C#, ASP.NET, JAVA, PHP**
 
-- 🤝 I’m looking for help with **C++, HMTL, PYTHON, JAVA**
+- 🤝 I’m looking for help with **C++, HMTL, PYTHON, JAVA, C#, ASP.NET**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **yorke.julius@outlook.com**
 
-- ⚡ Fun fact **Invention made easy :)**
+- ⚡ Fun fact **Invention made easy with programming :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
